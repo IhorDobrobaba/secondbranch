@@ -3,5 +3,8 @@ public class master {
         System.out.println("sssdada");
         System.out.println("sssdada");
         System.out.println("sssdada");
+        System.out.println("sssdada");
+        System.out.println("sssdada");
+        System.out.println("sssdada");
     }
 }
