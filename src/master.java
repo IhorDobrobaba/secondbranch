@@ -5,6 +5,9 @@ public class master {
         System.out.println("sssdada");
         System.out.println("sssdada");
         System.out.println("sssdada");
+        System.out.println("sss324a");
+        System.out.println("sssdada");
+        System.out.println("sssdada");
         System.out.println("sssdada");
         System.out.println("sssdada");
         System.out.println("sssdada");
